@@ -1,11 +1,11 @@
-# study-structure
-A Framework for Self Study
+# Security Plus
+The guiding document for my CompTIA Security+ certification journey
 
 ### Phase 1: Define the Goals
 - Specific Functional Goal
-  - What do you want to do at the end of this specific study program?
+  - Pass the CompTIA Security+ Exam
 - Motivation
-  - Why do you care about learning this?
+  - I want to do more interesting work that helps people, and make a ton of money doing it.
 
 ### Phase 2: Find Learning Resources
 - Papers / Documentation / Technical References
